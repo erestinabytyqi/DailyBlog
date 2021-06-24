@@ -1,0 +1,123 @@
+                                                                      body{   
+                                                                        margin:0 auto; 
+                                                                        height: 2000px
+                                                                        }
+
+
+                                                                       #div1{
+                                                                    width:auto;
+                                                                    height: 40px;                                   
+                                                                    z-index: 222;
+                                                                    border-radius: 4px;
+                                                                    z-index: 100
+                                                                    }
+
+                                                                   ul {
+                                                                      list-style-type: none;
+                                                                      margin: 0;
+                                                                      margin-left: 38.3%;
+                                                                      padding: 0;
+                                                                      padding-bottom: 0;
+                                                                      margin-bottom: 0;
+                                                                      overflow: hidden;
+                                                                      background-color: white;
+                                                                      color: black;
+                                                                      font-size: 15px;
+                                                                      margin-bottom: 10px ;
+                                                                      position: fixed;
+                                                                     z-index: 222;
+                                                                      border-radius: 10px;
+
+                                                                    } 
+
+                                                                        li {
+                                                                          float: left;
+                                                                          margin-bottom: 0px;
+                                                                          padding-bottom:0px;
+                                                                        
+                                                                         
+
+                                                                        }
+
+                                                                        li a {
+                                                                          display: block;
+                                                                          color: black;
+                                                                          text-align: center;
+                                                                          padding: 14px 29px;
+                                                                          text-decoration: none;
+                                                                          font-family: 'Karla', sans-serif;
+                                                                          font-weight: bold;
+                                                                           transition: background-color 1s ease-out;
+                                                                        }
+
+                                                                        li a:hover {
+                                                                          background-color: #4F4C4C;
+                                                                          transition: all 1s;
+                                                                          color:white;
+                                                                         
+                                                                        
+                                                                        }
+
+
+                                                                    #img1{position: absolute;
+                                                                      z-index: 20;
+                                                                    top: 10%;
+                                                                    left: 10%;
+                                                                    transition-timing-function: ease-out;
+                                                                    transition: opacity 25s ease-out;opacity: 0.1}    
+
+                                                                    #img1:hover{
+                                                                      opacity: 0.9;
+                                                                      transition: all;
+                                                                      transition-duration: 1s
+
+                                                                    }
+                                                                       #img2{position: absolute;
+                                                                      z-index: 20;
+                                                                    top: 20%;
+                                                                    left: 45%;
+                                                                    transition-timing-function: ease-out;
+                                                                    transition: opacity 28s ease-out;opacity: 0.1;
+                                                                
+                                                                    border: 1px solid #D8D8D8}    
+
+                                                                    #img2:hover{
+                                                                      opacity: 1;
+                                                                      transition: all;
+                                                                      transition-duration: 1s
+
+                                                                    }
+
+                                                                    h1{font-family: 'Reenie Beanie', cursive;
+                                                                    font-size: 80px;
+}
+
+#col{color: #7A8C17;
+transition: color 3s ease-out;
+font-family: 'Cinzel', serif;
+
+
+font-size: 35px}
+
+#col:hover{transition: all 1s;
+  
+
+          color: black;
+          font-size: 40px }
+
+          #para{text-align: justify;margin-left: 10%;margin-right: 20%;
+              font-size: 20px;
+            font-family: 'Roboto', sans-serif;
+            word-spacing: 2.5px}
+
+            h3{position: absolute;top: 335% ;left:35%;font-size: 30px;color: green
+              transition-duration: color 3s ease-out;}
+
+
+
+            h3:hover{transition: all;
+              transition-duration: 3s
+              ;font-size: 30px;
+                color: black}
+
+      
